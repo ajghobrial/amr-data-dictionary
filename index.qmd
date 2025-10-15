@@ -16,7 +16,11 @@ Data files:
 
 -   [New line added]{.underline}
 
+<<<<<<< HEAD
 I'm adding anay change to the file locally.
+=======
+-   [**This is a new change for the collaborative exercise**]{.underline}
+>>>>>>> c73077ba3f99c1c8154d553b1497262b7a08baf3
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
