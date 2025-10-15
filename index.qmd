@@ -16,9 +16,7 @@ Data files:
 
 -   [New line added]{.underline}
 
-
 Fixed merge issue
-
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
